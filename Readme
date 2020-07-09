@@ -1,0 +1,1 @@
+The dataset having two columns, x, and y. Here x is the feature and y is the label. We’re going to predict y using x as an independent variable.
